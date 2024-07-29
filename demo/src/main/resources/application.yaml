@@ -1,6 +1,0 @@
-spring:
-  ai:
-    azure:
-      openai:
-        api-key: 4d4be14410554819a20e7cffa90ce593
-        endpoint: https://drola.openai.azure.com
